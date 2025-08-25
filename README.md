@@ -68,9 +68,8 @@ Use this repo to showcase your services, projects, experience, blog posts, and c
 ### 1) Clone the repo
 
 ```bash
-git clone
-https://github.com/Mian-Mustafa/Unique-Portfolio-Frontend
-cd <your-repo-name>
+git clone https://github.com/Mian-Mustafa/Unique-Portfolio-Frontend
+cd <https://github.com/Mian-Mustafa/Unique-Portfolio-Frontend>
 ```
 
 ### 2) Open locally
