@@ -68,8 +68,8 @@ Use this repo to showcase your services, projects, experience, blog posts, and c
 ### 1) Clone the repo
 
 ```bash
-git clone https://github.com/Mian-Mustafa/Unique-Portfolio-Frontend
-cd <https://github.com/Mian-Mustafa/Unique-Portfolio-Frontend>
+https://github.com/Mian-Mustafa/Unique-Portfolio-Frontend
+
 ```
 
 ### 2) Open locally
@@ -163,61 +163,6 @@ Adjust CSS variables in `:root` (inside `style.css`):
 }
 ```
 
-> **Tip:** Also fix occurrences of `--sidbar-width` → `--sidebar-width` in CSS and where used.
-
-### AOS Effects
-
-You can change per‑element animations using attributes:
-
-```html
-<h1 data-aos="flip-up"></h1>
-<div data-aos="fade-up" data-aos-delay="300"></div>
-```
-
-Full list: [AOS docs](https://michalsnik.github.io/aos/) *(add as a reference in your repo description)*
-
----
-
-## 🌐 Deployment
-
-### GitHub Pages
-
-1. Push code to `main`.
-2. Repo Settings → **Pages** → Source: `Deploy from a branch` → Branch: `main` → `/root`.
-3. Wait for build; your site will be available at `https://<username>.github.io/<repo>/`.
-
-### Netlify / Vercel
-
-* Drag‑and‑drop the repo folder to Netlify, or import the Git repo on Vercel.
-* Set root directory to repo root; no build step required (static site).
-
----
-
-## ✅ Accessibility & SEO Quick Wins
-
-* Add `alt` text to all images (`alt="Project thumbnail"`).
-* Ensure color contrast meets WCAG AA.
-* Add meta description in `<head>`:
-
-  ```html
-  <meta name="description" content="UI/UX Designer & Front-end Developer portfolio showcasing services, projects, blog, and contact details.">
-  ```
-* Use semantic headings (H1 → H2 → H3).
-
----
-
-## 🔧 Known Issues / Notes
-
-* **Typos** within content (optional to fix):
-
-  * `I,M` → `I’m`, `PAKISTAN ,LHR` → `Lahore, Pakistan`
-  * `Inovation` → `Innovation`, `tempelate equiped` → `template equipped`
-  * `Studing` → `Studying`, `dababase` → `database`, `Interne` → `Intern`
-  * `Whats our Suscribers say` → `What our Subscribers say`
-* Consider adding a real contact backend (Formspree, Netlify Forms) if you need email submissions.
-
----
-
 ## 📦 Credits
 
 * **Bootstrap 5** — layout & components
@@ -237,7 +182,6 @@ This project is open‑sourced under the **MIT License**. Feel free to use and m
 
 **Ghulam Mustafa**
 Phone: `(+92) 324‑4269023`
-Email: *(add your email)*
-LinkedIn: *(add your profile)*
+Email: *musa39078@gmail.com*
 
-If you use this template, a ⭐ on the repo would be awesome!
+
